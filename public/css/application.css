@@ -1,0 +1,24 @@
+body {
+    background-color: #111;
+    font-family: "Helvetica";
+    overflow: hidden;
+    margin: 0;
+}
+
+p {
+    color: white;
+    width: 100%;
+    text-align: right;
+}
+a, a:visited {
+  color: #307ecb;
+}
+a:hover {
+  background-color: #307ecb;
+  color: white;
+}
+
+#map {
+
+}
+
